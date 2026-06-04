@@ -1,0 +1,18 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "baseUrl": ".",
+    "composite": true,
+    "declarationMap": true,
+    "emitDeclarationOnly": true,
+    "outDir": "dist",
+    "rootDir": "src",
+    "lib": ["dom", "es2022"],
+    "jsx": "react-jsx",
+    "types": ["node"],
+    "paths": {
+      "@tanstack/react-query": ["./node_modules/@tanstack/react-query/src/index.ts"]
+    }
+  },
+  "include": ["src"]
+}
