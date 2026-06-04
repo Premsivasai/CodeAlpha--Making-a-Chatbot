@@ -345,5 +345,5 @@ Distributed under the MIT License. See [LICENSE](file:///c:/Users/prems/Download
 
 ## ✉️ Contact
 
-- **Goval Team** - info@goval-ai.com
-- **Project URL**: [https://github.com/your-username/ai-shopping-intelligence](https://github.com/your-username/ai-shopping-intelligence)
+- **Goval Team** - premsivasai188@gmail.com
+- **Project URL**: [https://github.com/Premsivasai/CodeAlpha--Making-a-Chatbot](https://github.com/Premsivasai/CodeAlpha--Making-a-Chatbot)
